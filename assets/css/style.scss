@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    width: 100%;
+    float: left;
+    position: inhereted;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+section {
+    width: 100%;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    float: left;
+    position: inherit;
+}
