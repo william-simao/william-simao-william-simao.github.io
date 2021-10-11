@@ -1,3 +1,7 @@
+# Publicações
+
+Essa página apresenta a lista de artigos publicados em periódicos e eventos.
+
 ## Publicações em periódicos
 
 ### 2020
