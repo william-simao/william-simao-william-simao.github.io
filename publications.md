@@ -1,23 +1,23 @@
-# Publicações
+## Publicações
 
-Essa página apresenta a lista de artigos publicados em periódicos e eventos.
+Essa página apresenta a lista de artigos publicados em periódicos e eventos. 
 
-## Publicações em periódicos
+### Publicações em periódicos
 
-### 2020
+#### 2020
 
 - DEUS, WILLIAM SIMÃO DE; FIORAVANTI, MARIA LYDIA ; OLIVEIRA, CAMILA DIAS DE ; BARBOSA, ELLEN FRANCINE . Emergency Remote Computer Science Education in Brazil during the COVID-19 pandemic: Impacts and Strategies. REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 28, p. 1032-1059, 2020. [PDF](https://www.br-ie.org/pub/index.php/rbie/article/view/v28p1032/6751)
 
-### 2019
+#### 2019
 - DE DEUS, WILLIAM SIMAO; FABRI, J. A. ; LERARIO, A. . Um Método para Determinar a Complexidade de Microtasks Executadas em Ambientes Crowdsourcing. iSys - Revista Brasileira de Sistemas de Informação, v. 11, p. 5-30, 2019. [PDF](http://www.seer.unirio.br/isys/article/view/6418/7692)
 
-### 2017
+#### 2017
 - DE DEUS, WILLIAM SIMAO; LERARIO, A. ; FABRI, JOSE AUGUSTO . The Use of Microtasks in Crowdsourcing Software Development (versão extensa). JOURNAL ON ADVANCES IN THEORETICAL AND APPLIED INFORMATICS, v. 3, p. 25-30, 2017. [PDF](https://revista.univem.edu.br/jadi/article/view/2450/642)
 
 
-## Publicações em conferências/workshops
+### Publicações em conferências/workshops
 
-### 2020
+#### 2020
 
 - SIMAO DE DEUS, WILLIAM; FRANCINE BARBOSA, ELLEN . The Use of Metadata in Open Educational Resources Repositories: An Exploratory Study. In: 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC), 2020, Madrid. 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC), 2020. p. 123-133. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9202802)
 
@@ -25,7 +25,7 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 
 - DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . An Exploratory Study on the Availability of Open Educational Resources to Support the Teaching and Learning of Programming. In: 2020 IEEE Frontiers in Education Conference (FIE), 2020, Uppsala. 2020 IEEE Frontiers in Education Conference (FIE), 2020. p. 1-9. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9274202)
 
-### 2017
+#### 2017
 
 - L'ERARIO, ALEXANDRE; FABRI, JOSE AUGUSTO; PALACIOS, RODRIGO HENRIQUE CUNHA; GODOY, WAGNER; DE DEUS, WILLIAM SIMAO. Teaching crowdsourcing development in undergraduate courses a comparative study. In: 2017 12th Iberian Conference on Information Systems and Technologies (CISTI), 2017, Lisbon. 2017 12th Iberian Conference on Information Systems and Technologies (CISTI), 2017. p. 1-6. [IEEE XPLORE](https://ieeexplore.ieee.org/document/7975766)
 
@@ -36,11 +36,11 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 - DE DEUS, WILLIAM SIMAO; MACHADO, HEYDI MIURA; BARROS, RENATA MARQUES; FABRI, JOSE AUGUSTO; L'ERARIO, ALEXANDRE. Enhancing collaboration among undergraduates in informatics: A teaching and learning process based on crowdsourcing. In: 2017 IEEE Frontiers in Education Conference (FIE), 2017, Indianapolis. 2017 IEEE Frontiers in Education Conference (FIE), 2017. p. 1-8. [IEEE XPLORE](https://ieeexplore.ieee.org/document/8190648)
 
 
-### 2016
+#### 2016
 
 - DE DEUS, WILLIAM SIMAO; BARROS, R. M.; LERARIO, A.. Um Modelo para o Gerenciamento do Crowdsourcing em Projetos de Software. In: Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2016, Maceió. ANAIS do I Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES 2016), 2016. p. 1-10. [PDF](https://sol.sbc.org.br/index.php/washes/article/view/6218/6116)
 
-### 2013
+#### 2013
 
 - DE DEUS, WILLIAM SIMAO; LERARIO, A.. Persistência do conhecimento em Projetos de Desenvolvimento Distribuído de Software. In: XVIII Seminário de Iniciação Científica e Tecnológica da UTFPR, 2013, Dois Vizinhos. Anais do SICITE, 2013.
 
