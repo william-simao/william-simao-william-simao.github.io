@@ -25,3 +25,19 @@ body {
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: justify
 }
+
+
+.downloads li + li + li {
+  border-right: none;
+  width: 100px;
+}
+
+ul.downloads {
+    list-style: none;
+    height: 40px;
+    padding: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    width: 400;
+}
