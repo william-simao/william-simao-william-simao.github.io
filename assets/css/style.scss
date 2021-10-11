@@ -27,9 +27,14 @@ body {
 }
 
 
+.downloads li {
+    width: 100px;
+    border-right: 1px solid #e0e0e0;
+}
+
 .downloads li + li + li {
-  border-right: none;
-  width: 100px;
+    border-right: 1px solid #e0e0e0;
+    width: 100px;
 }
 
 ul.downloads {
@@ -39,5 +44,5 @@ ul.downloads {
     background: #f4f4f4;
     border-radius: 5px;
     border: 1px solid #e0e0e0;
-    width: 400;
+    width: 404px; /*Atualizar ao inserir novo menu (100px + 1)*/
 }
