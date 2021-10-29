@@ -4,6 +4,9 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 
 ### Publicações em periódicos
 
+#### 2021
+- FIORAVANTI, MARIA LYDIA; DE SESTITO OLIVEIRA, CAMILA DIAS; DE DEUS, WILLIAM SIMÃO; SCATALON, LILIAN PASSOS; BARBOSA, ELLEN FRANCINE. Role-Playing Games for Fostering Communication and Negotiation Skills. IEEE TRANSACTIONS ON EDUCATION, v. 10, p. 1-10, 2021; Meio de divulgação: Vários. ISSN/ISBN: 00189359. DOI: 10.1109/TE.2021.3117898. [IEEE XPLORE](https://ieeexplore.ieee.org/abstract/document/9568941)
+
 #### 2020
 
 - DEUS, WILLIAM SIMÃO DE; FIORAVANTI, MARIA LYDIA ; OLIVEIRA, CAMILA DIAS DE ; BARBOSA, ELLEN FRANCINE . Emergency Remote Computer Science Education in Brazil during the COVID-19 pandemic: Impacts and Strategies. REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 28, p. 1032-1059, 2020. [PDF](https://www.br-ie.org/pub/index.php/rbie/article/view/v28p1032/6751)
