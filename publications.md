@@ -5,7 +5,7 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 ### Publicações em periódicos
 
 #### 2021
-- DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . A Systematic Mapping of the Classification of Open Educational Resources for Computer Science Education in Digital Sources. IEEE TRANSACTIONS ON EDUCATION, v. 1, p. 1-11, 2021; Meio de divulgação: Digital. Homepage: http://https://doi.org/10.1109/TE.2021.3128019; ISSN/ISBN: 00189359. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9625758); [DATA](https://doi.org/10.5281/zenodo.5543942)
+- DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . A Systematic Mapping of the Classification of Open Educational Resources for Computer Science Education in Digital Sources. IEEE TRANSACTIONS ON EDUCATION, v. 1, p. 1-11, 2021; Meio de divulgação: Digital. ISSN/ISBN: 00189359. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9625758); [DATA](https://doi.org/10.5281/zenodo.5543942)
 
 - FIORAVANTI, MARIA LYDIA; DE SESTITO OLIVEIRA, CAMILA DIAS; DE DEUS, WILLIAM SIMÃO; SCATALON, LILIAN PASSOS; BARBOSA, ELLEN FRANCINE. Role-Playing Games for Fostering Communication and Negotiation Skills. IEEE TRANSACTIONS ON EDUCATION, v. 10, p. 1-10, 2021; Meio de divulgação: Vários. ISSN/ISBN: 00189359. DOI: 10.1109/TE.2021.3117898. [IEEE XPLORE](https://ieeexplore.ieee.org/abstract/document/9568941)
 
@@ -23,13 +23,13 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 ### Publicações em conferências/workshops
 
 #### 2021
-- DEUS, WILLIAM SIMÃO DE; BARBOSA, ELLEN FRANCINE. Recursos Educacionais Abertos para o Ensino e Aprendizado de Programação no Brasil: Primeiros Referenciais. In: Simpósio Brasileiro de Informática na Educação, 2021, Brasil. Anais do XXXII Simpósio Brasileiro de Informática na Educação (SBIE 2021). p. 1211-1220. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/12787/12641) 
+- DEUS, WILLIAM SIMÃO DE; BARBOSA, ELLEN FRANCINE. Recursos Educacionais Abertos para o Ensino e Aprendizado de Programação no Brasil: Primeiros Referenciais. In: Simpósio Brasileiro de Informática na Educação, 2021, Brasil. Anais do XXXII Simpósio Brasileiro de Informática na Educação (SBIE 2021). p. 1211-1220. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/12787/12641); [CODE](https://github.com/william-simao/william-simao.github.io/tree/main/publications/2021/SBIE); [DATA](https://doi.org/10.5281/zenodo.5510505) 
 
 #### 2020
 
 - SIMAO DE DEUS, WILLIAM; FRANCINE BARBOSA, ELLEN . The Use of Metadata in Open Educational Resources Repositories: An Exploratory Study. In: 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC), 2020, Madrid. 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC), 2020. p. 123-133. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9202802)
 
-- PAULA, LUCIANO BERNARDES DE ; DEUS, WILLIAM SIMÃO DE ; BARBOSA, ELLEN FRANCINE . Análise de Repositórios de REAs em Relação ao Uso dos Padrões de Linked Open Data. In: Simpósio Brasileiro de Informática na Educação, 2020, Brasil. Anais do XXXI Simpósio Brasileiro de Informática na Educação (SBIE 2020). p. 312-321. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/18143); [CODE](https://github.com/william-simao/william-simao.github.io/tree/main/publications/2021/SBIE); [DATA](https://doi.org/10.5281/zenodo.5510505)
+- PAULA, LUCIANO BERNARDES DE ; DEUS, WILLIAM SIMÃO DE ; BARBOSA, ELLEN FRANCINE . Análise de Repositórios de REAs em Relação ao Uso dos Padrões de Linked Open Data. In: Simpósio Brasileiro de Informática na Educação, 2020, Brasil. Anais do XXXI Simpósio Brasileiro de Informática na Educação (SBIE 2020). p. 312-321. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/18143)
 
 - DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . An Exploratory Study on the Availability of Open Educational Resources to Support the Teaching and Learning of Programming. In: 2020 IEEE Frontiers in Education Conference (FIE), 2020, Uppsala. 2020 IEEE Frontiers in Education Conference (FIE), 2020. p. 1-9. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9274202)
 
