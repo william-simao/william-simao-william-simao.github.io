@@ -23,7 +23,7 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 ### Publicações em conferências/workshops
 
 #### 2021
-- DEUS, WILLIAM SIMÃO DE; BARBOSA, ELLEN FRANCINE. Recursos Educacionais Abertos para o Ensino e Aprendizado de Programação no Brasil: Primeiros Referenciais. In: Simpósio Brasileiro de Informática na Educação, 2021, Brasil. Anais do XXXII Simpósio Brasileiro de Informática na Educação (SBIE 2021). p. 1211-1220. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/12787/12641); [CODE](https://github.com/william-simao/william-simao.github.io/tree/main/publications/2021/SBIE); [DATA](https://doi.org/10.5281/zenodo.5510505) 
+- DEUS, WILLIAM SIMÃO DE; BARBOSA, ELLEN FRANCINE. Recursos Educacionais Abertos para o Ensino e Aprendizado de Programação no Brasil: Primeiros Referenciais. In: Simpósio Brasileiro de Informática na Educação, 2021, Brasil. Anais do XXXII Simpósio Brasileiro de Informática na Educação (SBIE 2021). p. 1211-1220. [PDF](https://sol.sbc.org.br/index.php/sbie/article/view/18143); [CODE](https://github.com/william-simao/william-simao.github.io/tree/main/publications/2021/SBIE); [DATA](https://doi.org/10.5281/zenodo.5510505) 
 
 #### 2020
 
