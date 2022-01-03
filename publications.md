@@ -5,7 +5,10 @@ Essa página apresenta a lista de artigos publicados em periódicos e eventos.
 ### Publicações em periódicos
 
 #### 2021
-- DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . A Systematic Mapping of the Classification of Open Educational Resources for Computer Science Education in Digital Sources. IEEE TRANSACTIONS ON EDUCATION, v. 1, p. 1-11, 2021; Meio de divulgação: Digital. ISSN/ISBN: 00189359. [IEEE XPLORE](https://ieeexplore.ieee.org/document/9625758) <br />
+- DE DEUS, WILLIAM SIMAO; BARBOSA, ELLEN FRANCINE . A Systematic Mapping of the Classification of Open Educational Resources for Computer Science Education in Digital Sources. IEEE TRANSACTIONS ON EDUCATION, v. 1, p. 1-11, 2021; Meio de divulgação: Digital. ISSN/ISBN: 00189359. <br />
+<a href="https://ieeexplore.ieee.org/document/9625758">
+	<img src="https://liberconference.eu/wp-content/uploads/2019/04/IEEE-XploreDigitalLibrary.jpg" alt="IEEE Xplore" width="100" height="24">
+</a>
 [![DOI:10.5281/zenodo.5543943](https://zenodo.org/badge/DOI/10.5281/zenodo.5543943.svg)](https://doi.org/10.5281/zenodo.5543943)
 
 
